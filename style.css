@@ -10,7 +10,7 @@
 	background-image: url(background_szilvi.jpg) no-repeat 70% center/cover;
 	display: table;
 }
-@media (min-width: 1920px) {
+@media (min-width: 320px) {
 
 	.hero {
 	  background: url(background_szilvi.jpg) no-repeat center/cover;
