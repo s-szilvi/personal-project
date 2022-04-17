@@ -14,7 +14,7 @@
 }
 @media (min-width: 768px) {
 
-	.cover {
+	.hero {
 	  background: url(background_szilvi.jpg) no-repeat center/cover;
 	}
   
