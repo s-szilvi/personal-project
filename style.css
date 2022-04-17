@@ -5,8 +5,8 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 100%;
-	width: 100%;
+	max-height: 100%;
+	max-width: 100%;
 	background-image: url(background_szilvi.jpg) no-repeat;
     background-position: 100% 100% center;
     background-size: 1920px 950px;
@@ -34,7 +34,6 @@ color: black;
 	font-size: 1.75rem;
 	letter-spacing: 0.063rem;
 	cursor: pointer;
-	padding-bottom: 2rem;
 	align-items: center;
 	display: inline;
 }
