@@ -5,11 +5,11 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 100vh;
+	height: 100%;
 	width: 100%;
-	background-image: url(background_szilvi.jpg) no-repeat 70% center/cover;
-	display: table;
-	background-size: 120rem;
+	background-image: url(background_szilvi.jpg) no-repeat;
+    background-position: 100% 100% center;
+    background-size: 120rem 59.375rem;
 }
 @media (min-width: 320px) {
 
