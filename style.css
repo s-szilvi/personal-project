@@ -9,6 +9,7 @@
 	width: 100%;
 	background-image: url(background_szilvi.jpg) no-repeat 70% center/cover;
 	display: table;
+	background-size: 120rem;
 }
 @media (min-width: 320px) {
 
