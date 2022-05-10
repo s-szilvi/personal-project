@@ -184,6 +184,7 @@ h4{
     font-family: 'BioRhyme', serif;
     font-size: 1rem;
     margin-top: 1rem;
+    
 }
 .button1:hover{
 	background-color: transparent;
@@ -212,6 +213,9 @@ h4{
 	padding: 0rem;
 	padding-bottom: 0.5em;
     text-align: left;
+}
+.buttonbox{
+    text-align: center;
 }
 .main{
 	width: 70.0.625;
@@ -299,6 +303,7 @@ h5{
     font-family: 'Playfair Display SC', serif;
 	font-size: 1.3rem;
 	margin-bottom: 0.2rem;
+    margin-top: 1rem;
 }
 .place{
 	color: white;
@@ -333,7 +338,7 @@ hr.dotted {
 	color: #659418;
     font-family: 'Playfair Display SC', serif;
 	font-size: 1.3rem;
-	margin-top: 1.5rem;
+	margin-top: 1rem;
 }
 .date-three{
 	color: #659418;
