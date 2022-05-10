@@ -167,7 +167,7 @@ h4{
 	font-size: 1.125rem;
 	margin-bottom: 2.813rem;
 }
-button{
+.button{
 	background-color:#4a0007;
 	color: white;
 	text-decoration: none;
@@ -178,7 +178,7 @@ button{
     font-family: 'BioRhyme', serif;
     font-size: 1rem;
 }
-button:hover{
+.button:hover{
 	background-color: transparent;
 	border: 0.125rem solid #659418;
 	cursor: pointer;
