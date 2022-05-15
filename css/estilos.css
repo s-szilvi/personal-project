@@ -49,7 +49,7 @@ body{
 	z-index: 1;
 }
 
-.slider .caption h1{
+.slider .caption .title-photo{
 	font-size: 3.125rem;
 	color: #9b0917;
 }
