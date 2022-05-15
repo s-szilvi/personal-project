@@ -78,11 +78,14 @@ nav ul li a:hover{
 	left:8%;
 	transform: translateY(-50%);
 }
-h1{
+h1 {
 	color: #282828;
 	margin: 1.25rem 0rem 1.25rem;
-	font-size: 4.688rem;
+	font-size: 3rem;
     font-family: 'Playfair Display SC', serif;
+}
+.name{
+	color: #9b0917;
 }
 h3{
 	color: #282828;
