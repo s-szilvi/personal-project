@@ -81,7 +81,7 @@ nav ul li a:hover{
 h1{
 	color: #282828;
 	margin: 1.25rem 0rem 1.25rem;
-	font-size: 4.688rem;
+	font-size: 3rem;
     font-family: 'Playfair Display SC', serif;
 }
 h3{
@@ -148,9 +148,23 @@ h4{
 .about-text h2{
 	color: white;
     font-family: 'Playfair Display SC', serif;
-	font-size: 4.688rem;
+	font-size: 3rem;
 	text-transform: capitalize;
 	margin-bottom: 1.25rem;
+}
+.title h2{
+		color: white;
+		font-family: 'Playfair Display SC', serif;
+		font-size: 3rem;
+		text-transform: capitalize;
+		margin-bottom: 1.25rem;
+}
+.contact-me h2 {
+		color: white;
+		font-family: 'Playfair Display SC', serif;
+		font-size: 3rem;
+		text-transform: capitalize;
+		margin-bottom: 1.25rem;
 }
 .about-text h5{
 	color: #9b0917;
@@ -191,7 +205,7 @@ h4{
 }
 .title h2{
 	color: white;
-	font-size: 4.688rem;
+	font-size: 3rem;
 	width: 70.0.625;
 	margin: 1.875rem auto;
 	text-align: center;
@@ -338,17 +352,7 @@ footer p:nth-child(2){
     font-size: 1.125rem;
     line-height: 1.5rem;
 }
-h7 {
-	font-size: 1.563rem;
-	font-family:'BioRhyme', serif;
-	font-weight: bold;
-	color:#659418;
-	line-height: 0.125rem;
-}
-h8 {
-	font-size: 1.25rem;
-	
- }
+
  .cvpage {
 width: 100%;
 padding: 6.25rem 0rem;
