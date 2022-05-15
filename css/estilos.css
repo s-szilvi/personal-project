@@ -38,7 +38,7 @@ body{
 	height: 100%;
 	top: 2rem;
 	left: 0;
-	padding: 15px 50px;
+	padding: 0.938rem 3.125rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -50,13 +50,13 @@ body{
 }
 
 .slider .caption h1{
-	font-size: 50px;
+	font-size: 3.125rem;
 	color: #9b0917;
 }
 
 .slider .caption p{
-	margin-top: 10px;
-	font-size: 20px;
+	margin-top: 0.625rem;
+	font-size: 1.25rem;
 }
 
 .pagination{
@@ -68,8 +68,8 @@ body{
 }
 
 .pagination li{
-	font-size: 20px;
-	margin: 2px 5px;
+	font-size: 1.25rem;
+	margin: 0.125rem 0.313rem;
 	color: #659418;
 	cursor: pointer;
 }
@@ -83,35 +83,35 @@ body{
 	align-items: center;
 
 	color: #659418;
-	font-size: 35px;
+	font-size: 2.188rem;
 	cursor: pointer;
 	z-index: 2;
 }
 
 .left{
-	left: 10px;
+	left: 0.625rem;
 }
 
 .right{
-	right: 10px;
+	right: 0.625rem;
 }
 
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 320px){
 	.slider .caption p{
 		display: none;
 	}
 
 	.slider .caption h1{
-		font-size: 35px;
+		font-size: 2.188rem;
 	}
 
 	.left, .right{
-		font-size: 30px;
+		font-size: 1.875rem;
 	}
 
 	.slider li img{
-		width: 600px;
+		width: 37.5rem;
 	}
 
 	.pagination{
