@@ -20,9 +20,8 @@ body{
 	margin-bottom: 15rem;
 	
 }
-
 .slider li, ul{
-	width: 100%;
+	width: auto;
 	}
 
 .slider li{
