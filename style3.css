@@ -270,6 +270,14 @@ h4{
 	text-transform: capitalize;
 	margin-bottom: 0.25rem;
 }
+.softskills h2{
+	color: #9b0917;
+	text-align: center;
+    font-family: 'Playfair Display SC', serif;
+	font-size: 3rem;
+	text-transform: capitalize;
+	margin-bottom: 1rem;
+}
 .programing h5{
 	color: #9b0917;
 	letter-spacing: 0.125rem;
@@ -530,4 +538,47 @@ background-color: #282828;
 	position: relative;
 	padding-top: 0rem;
 }
-
+table, th, td {
+	border: 0;
+	padding-left: 1rem;
+  }
+.columnfirst {
+	font-family: 'Playfair Display SC', serif;
+	color: #659418;
+	font-weight: bold;
+	font-size: 1.3rem;
+	padding-bottom: 1.5rem;
+}
+.columnsecond {
+	font-family: 'Playfair Display SC', serif;
+	color: #659418;
+	font-size: 1.3rem;
+	padding-right: 2rem;
+	padding-bottom: 1.5rem;
+}
+.rowsecond {
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+.rowthird {
+	margin-bottom: 1rem;
+	font-size: 1.3rem;
+	text-align: justify;
+}
+.rowfourth{
+	font-size: 1.3rem;
+	text-align: justify;
+}
+.additional{
+	width: 42rem;
+	padding: 0rem;
+	padding-bottom: 0.5em;
+    text-align: left;
+}
+.columnthird{
+	font-family: 'Playfair Display SC', serif;
+	color: #659418;
+	padding-right: 2rem;
+	padding-bottom: 1.5rem;
+}
+}
