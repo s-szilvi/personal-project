@@ -290,8 +290,9 @@ h4{
 	color: #4a0007;
 	letter-spacing: 0.063rem;
 	line-height: 1rem;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	margin-bottom: 2.813rem;
+	font-family: 'BioRhyme', serif;
 }
 .graphics h2{
 	color: white;
@@ -449,6 +450,9 @@ hr.dotted {
 	flex-direction: column;
 	justify-content: center;
 }
+.contact-text {
+	font-family:'BioRhyme', serif;
+}
 .contact-me p{
 	color: white;
 	font-size: 2.813rem;
@@ -518,16 +522,19 @@ footer p:nth-child(2){
 	position: absolute;
 	color:#9b0917;
 	bottom: 2.188rem;
-	font-size: 1.125rem; 
+	font-size: 1.125rem;
+	font-family: 'BioRhyme', serif;
 }
 .email{
     color: #659418;
     font-size: 1.125rem;
+	font-family: 'BioRhyme', serif;
 }
 .mail-text{
     color: white;
     font-size: 1.125rem;
     line-height: 1.5rem;
+	font-family: 'BioRhyme', serif;
 }
  .cvpage {
 width: 100%;
