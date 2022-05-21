@@ -133,4 +133,19 @@ body{
 	.pagination{
 		display: none;
 	}
+
 }
+.hero{
+	max-height: 100%;
+	max-width: 100%;
+	background-image: url(background_szilvi.jpg) no-repeat;
+    background-position: 100% 100% center;
+    background-size: 1920px 950px;
+}
+@media (min-width: 320px) {
+
+	.hero {
+	  background: url(background_szilvi.jpg) no-repeat center/cover;
+	}
+  
+  }
