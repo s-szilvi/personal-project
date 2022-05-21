@@ -78,6 +78,17 @@ nav ul li a:hover{
 	left:8%;
 	transform: translateY(-50%);
 }
+@media (min-width: 320px) {
+
+	.content{
+		position: absolute;
+		padding-top: 17.5rem;
+		top: 50%;
+		left:8%;
+		transform: translateY(-50%);
+	}
+  
+  }
 h1{
 	color: #282828;
 	margin: 1.25rem 0rem 1.25rem;
