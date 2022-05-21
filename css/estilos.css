@@ -5,20 +5,7 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.hero{
-	max-height: 100%;
-	max-width: 100%;
-	background-image: url(background_szilvi.jpg) no-repeat;
-    background-position: 100% 100% center;
-    background-size: 1920px 950px;
-}
-@media (min-width: 320px) {
 
-	.hero {
-	  background: url(background_szilvi.jpg) no-repeat center/cover;
-	}
-  
-  }
 
 ul,ol{
 	list-style: none;
@@ -112,7 +99,6 @@ body{
 	right: 0.625rem;
 }
 
-
 @media screen and (max-width: 320px){
 	.slider .caption p{
 		display: none;
@@ -135,17 +121,3 @@ body{
 	}
 
 }
-.hero{
-	max-height: 100%;
-	max-width: 100%;
-	background-image: url(background_szilvi.jpg) no-repeat;
-    background-position: 100% 100% center;
-    background-size: 1920px 950px;
-}
-@media (min-width: 320px) {
-
-	.hero {
-	  background: url(background_szilvi.jpg) no-repeat center/cover;
-	}
-  
-  }

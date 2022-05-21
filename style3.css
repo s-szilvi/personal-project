@@ -9,7 +9,7 @@
 	max-width: 100%;
 	background-image: url(background_szilvi.jpg) no-repeat;
     background-position: 100% 100% center;
-    background-size: 1920px 950px;
+    background-size: 120rem 59.375rem;
 }
 @media (min-width: 320px) {
 
@@ -22,12 +22,13 @@ nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-color: black;
+	color: black;
 	padding-top: 34.375rem;
 	padding-left: 8%;
 	padding-right: 8%;
     font-family: 'BioRhyme', serif;
     font-size: 1.2rem;
+	
 }
 .logo{
 	color: #659418;
@@ -587,5 +588,4 @@ table, th, td {
 	color: #659418;
 	padding-right: 2rem;
 	padding-bottom: 1.5rem;
-}
 }
